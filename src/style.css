@@ -1,0 +1,63 @@
+body {
+    background-color: #002b36;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Roboto Mono";
+}
+
+h2 {
+    color: white;
+    font-family: "Roboto Mono";
+    text-align: center;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Roboto Mono";
+    font-size: 20px;
+    color: white;
+}
+
+li {
+    font-family: "Roboto Mono";
+    font-size: 20px;
+    color: white;
+}
+button {
+    background-color: #002b36;
+    font-family: "Roboto Mono";
+    font-size: 20px;
+    color: white;
+
+}
+button {
+    background-color: #002b56;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
+.GFG {
+    background-color: #002b56;
+    border: 2px solid #002b36;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 30px;
+    cursor: pointer;
+    border-radius: 10px;
+}
